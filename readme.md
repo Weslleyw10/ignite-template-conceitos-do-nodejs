@@ -40,7 +40,7 @@ $ cd ignite-template-conceitos-do-nodejs
 $ yarn install
 
 # Run
-$ yarn install
+$ yarn dev
 
 # The server will start on port:8000 - access <http://localhost:8000>
 ```
