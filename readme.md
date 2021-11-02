@@ -6,7 +6,7 @@
 
 <br />
 
-## Resources
+### Resources
 
 - [x] Create user
 - [x] Middleware user
@@ -19,7 +19,7 @@
 
 <br />
 
-## Requirements
+### Requirements
 
 Before starting, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -27,11 +27,11 @@ Use an editor of your choice.
 
 <br />
 
-## 🎲 Running
+### 🎲 Running
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/Weslleyw10/ignite-template-conceitos-do-nodejs.git>
 
 # Access the directory this project from the terminal/cmd
 $ cd ignite-template-conceitos-do-nodejs
@@ -49,7 +49,7 @@ $ yarn install
 
 # Endpoints
 
-## User
+### User
 
 ``` bash
     # create user 
@@ -64,7 +64,7 @@ $ yarn install
   --url http://127.0.0.1:8000/users
 ```
 
-## Todos
+### Todos
 
 ``` bash
     # Create todos
